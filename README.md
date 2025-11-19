@@ -1,6 +1,5 @@
-# 📊 Estudio inferencial sobre el gasto en viajes realizados en Julio de 2024:  
-## Perspectivas desde los datos del I.N.E.  
-**Trabajo grupal — 30 de abril de 2025**  
+# 📊 Estudio inferencial sobre el gasto en viajes realizados en Julio de 2024: Perspectivas desde los datos del I.N.E.  
+## Trabajo grupal — 30 de abril de 2025
 **Equipo ε**  
 Universidad de Oviedo — Facultad de Ciencias  
 Asignatura: *Inferencia Estadística*
