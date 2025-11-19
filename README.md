@@ -39,7 +39,7 @@ Código utilizado para realizar los análisis estadísticos con **R**.
 ## 👥 Mi contribución personal en el proyecto  
 Soy **Pablo Llorian González**, integrante del **Equipo ε**, responsable del:
 
-### 🔹 **Análisis 4 — *Análisis de la relación entre el destino de viaje y el gasto total por día***  
+### 🔹 *Análisis de la relación entre el destino de viaje y el gasto total por día***  
 Mi participación incluyó:
 
 - Clasificación de los viajes según **tipo de destino**  
@@ -54,7 +54,7 @@ Mi participación incluyó:
 
 ## 🛠️ Tecnologías utilizadas
 
-- **R** (tidyverse, ggplot2, stats…)  
+- **R** (tidyverse, ggplot2,…)  
 - **LaTeX** para la elaboración del informe  
 - **GitHub** para documentar y organizar el proyecto  
 
