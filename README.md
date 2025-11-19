@@ -32,7 +32,8 @@ Incluye el desarrollo completo del análisis, la metodología empleada y las con
 📄 `Informe-Estudio-Inferencial-INE-2024.pdf`.
 
 ### **2. Anexo**  
-Documento complementario que recoge el **código en R** utilizado en el proyecto, incluyendo el filtrado de datos y los distintos contrastes realizados (acompañante, ingresos, destino, género y modo de reserva), así como las representaciones gráficas asociadas. También incorpora la construcción de **intervalos de confianza** para la media del gasto en alojamiento según el modo de reserva y un **análisis univariable** con tablas, resúmenes y visualizaciones.
+Documento complementario que reúne el **código en R** empleado en el estudio, incluyendo el filtrado de datos, los distintos contrastes utilizados y sus visualizaciones. Incluye también la construcción de **intervalos de confianza** para el gasto en alojamiento por día y por persona según el modo de reserva y un **análisis univariable** con tablas, resúmenes numéricos y gráficos.
+
 
 📄 `Anexo-Estudio-Inferencial-INE-2024.pdf`.
 
