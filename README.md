@@ -28,10 +28,12 @@ El estudio combina análisis descriptivos y contrastes de hipótesis mediante m�
 
 ### **1. Informe principal**  
 Incluye el desarrollo completo del análisis, la metodología empleada y las conclusiones finales.  
+
 📄 `Informe-Estudio-Inferencial-INE-2024.pdf`.
 
 ### **2. Anexo**  
 Documento complementario que recoge el **código en R** utilizado en el proyecto, incluyendo el filtrado de datos, los distintos contrastes (acompañante, ingresos, destino, género y modo de reserva), así como el análisis del gasto por día y por persona. También incorpora la construcción de **intervalos de confianza** para la media del gasto en alojamiento según el modo de reserva y un **análisis univariable** con tablas, resúmenes y visualizaciones.
+
 📄 `Anexo-Estudio-Inferencial-INE-2024.pdf`.
 
 ---
