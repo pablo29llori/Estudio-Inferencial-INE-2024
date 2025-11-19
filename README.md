@@ -28,11 +28,11 @@ El estudio combina análisis descriptivos y contrastes de hipótesis mediante m�
 
 ### **1. Informe principal**  
 Incluye el desarrollo completo del análisis, metodología y conclusiones finales.  
-📄 `Informe/Trabajo_IE_Equipo_Epsilon.pdf`.
+📄 `Trabajo IE Equipo ε.pdf`.
 
 ### **2. Anexo del código**  
 Código utilizado para realizar los análisis estadísticos con **R**.  
-📄 `Codigo/Anexo_Equipo_Epsilon.pdf`.
+📄 `Anexo Equipo ε.pdf`.
 
 ---
 
