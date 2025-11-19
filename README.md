@@ -27,12 +27,12 @@ El estudio combina análisis descriptivos y contrastes de hipótesis mediante m�
 ## 📁 Contenido del repositorio
 
 ### **1. Informe principal**  
-Incluye el desarrollo completo del análisis, metodología y conclusiones finales.  
-📄 `Trabajo IE Equipo ε.pdf`.
+Incluye el desarrollo completo del análisis, la metodología empleada y las conclusiones finales.  
+📄 `Informe-Estudio-Inferencial-INE-2024.pdf`.
 
-### **2. Anexo del código**  
-Código utilizado para realizar los análisis estadísticos con **R**.  
-📄 `Anexo Equipo ε.pdf`.
+### **2. Anexo**  
+Documento complementario que recopila el código en **R** utilizado en el estudio, junto con el desarrollo de los intervalos de confianza, resúmenes numéricos y algunas de las tablas y representaciones gráficas generadas a partir de los datos.  
+📄 `Anexo-Estudio-Inferencial-INE-2024.pdf`.
 
 ---
 
