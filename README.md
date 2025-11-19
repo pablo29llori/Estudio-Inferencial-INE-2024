@@ -1,67 +1,64 @@
-📊 Análisis Estadístico del Gasto en Viajes (INE, Julio 2024)
+# 📊 Estudio inferencial sobre el gasto en viajes realizados en Julio de 2024:  
+## Perspectivas desde los datos del I.N.E.  
+**Trabajo grupal — 30 de abril de 2025**  
+**Equipo ε**  
+Universidad de Oviedo — Facultad de Ciencias  
+Asignatura: *Inferencia Estadística*
 
-Trabajo grupal – 30 de abril de 2025
-Equipo ε
-Universidad de Oviedo — Facultad de Ciencias
-Asignatura: Inferencia Estadística
+Este proyecto analiza los patrones de gasto en viajes realizados durante julio de 2024 por residentes en España, utilizando datos del Instituto Nacional de Estadística (INE). Se estudian relaciones entre variables como:
 
-Este proyecto analiza los patrones de gasto en viajes realizados durante julio de 2024 por residentes en España, a partir de los datos del Instituto Nacional de Estadística (INE). Se estudian relaciones entre variables como:
+- gasto total por día  
+- tipo de acompañamiento  
+- ingresos del hogar  
+- género  
+- destino del viaje  
+- método de reserva del alojamiento  
 
-gasto total por día
+El estudio combina análisis descriptivos y contrastes de hipótesis mediante métodos como:
 
-tipo de acompañamiento
+- Tests de normalidad: **Shapiro–Wilk**, **Kolmogorov–Smirnov**, **Lilliefors**  
+- Test de igualdad de varianzas: **Levene**  
+- Tests no paramétricos: **Kruskal–Wallis**, **Dunn**, **Wilcoxon**  
+- Correlación de Spearman  
+- Visualizaciones: histogramas, boxplots, gráficos de violín, Q–Q plots y tablas resumen  
 
-ingresos del hogar
+---
 
-género
+## 📁 Contenido del repositorio
 
-destino del viaje
+### **1. Informe principal**  
+Incluye el desarrollo completo del análisis, metodología y conclusiones finales.  
+📄 `Informe/Trabajo_IE_Equipo_Epsilon.pdf`
 
-método de reserva del alojamiento
+### **2. Anexo del código**  
+Código utilizado para realizar los análisis estadísticos con **R**.  
+📄 `Codigo/Anexo_Equipo_Epsilon.pdf`
 
-El análisis combina técnicas descriptivas y contrastes de hipótesis mediante los siguientes métodos:
+---
 
-Tests de normalidad: Shapiro–Wilk, Kolmogorov–Smirnov, Lilliefors
+## 👥 Mi contribución personal en el proyecto  
+Soy **Pablo Llorian González**, integrante del **Equipo ε**, responsable del:
 
-Tests de igualdad de varianzas: Levene
+### 🔹 **Análisis 4 — *Análisis de la relación entre el destino de viaje y el gasto total por día***  
+Mi participación incluyó:
 
-Tests no paramétricos: Kruskal–Wallis, Dunn, Wilcoxon
+- Clasificación de los viajes según **tipo de destino**  
+- Preparación, filtrado y exploración del subconjunto de datos correspondiente  
+- Estudio comparativo del **gasto total por día** entre los distintos destinos  
+- Aplicación de contrastes de hipótesis adecuados (normalidad, homogeneidad de varianzas, pruebas no paramétricas)  
+- Elaboración de visualizaciones (boxplots, violines, gráficos comparativos)  
+- Interpretación detallada de los resultados del análisis  
+- Redacción de conclusiones e integración del apartado dentro del informe global  
 
-Correlación de Spearman
+---
 
-Representaciones: boxplots, violines, Q–Q plots, tablas resumen
+## 🛠️ Tecnologías utilizadas
 
-📁 Contenido del repositorio
-1. Informe principal
+- **R** (tidyverse, ggplot2, stats…)  
+- **LaTeX** para la elaboración del informe  
+- **GitHub** para documentar y organizar el proyecto  
 
-Incluye toda la metodología, análisis estadístico y conclusiones finales.
-📄 Informe/Trabajo_IE_Equipo_Epsilon.pdf
+---
 
-2. Anexo del código
-
-Contiene el código utilizado para realizar los análisis en R.
-📄 Codigo/Anexo_Equipo_Epsilon.pdf
-
-👥 Mi contribución personal
-
-Como integrante del Equipo ε, participé en:
-
-Tratamiento, filtrado y preparación del conjunto de datos
-
-Desarrollo de análisis estadísticos en R
-
-Interpretación de resultados y elaboración de conclusiones
-
-Revisión metodológica del informe final
-
-🛠️ Tecnologías utilizadas
-
-R (tidyverse, ggplot2, stats…)
-
-Markdown/LaTeX para la elaboración del informe
-
-GitHub para documentación y repositorio del proyecto
-
-📅 Fecha del trabajo
-
+## 📅 Fecha  
 30 de abril de 2025
