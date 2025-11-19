@@ -18,7 +18,7 @@ El estudio combina análisis descriptivos y contrastes de hipótesis mediante m�
 - Tests de normalidad: **Shapiro–Wilk**, **Kolmogorov–Smirnov**, **Lilliefors**.  
 - Test de igualdad de varianzas: **Levene**.  
 - Tests no paramétricos: **Kruskal–Wallis**, **Dunn** (post-hoc con corrección de Holm), **Mann–Whitney/Wilcoxon** para dos grupos.  
-- Test de proporciones: **prop.test**.  
+- Test de proporciones: **prueba de igualdad de proporciones**
 - Correlación de **Spearman**.  
 - Visualizaciones: histogramas, boxplots, gráficos de violín, Q–Q plots y tablas resumen.  
 
